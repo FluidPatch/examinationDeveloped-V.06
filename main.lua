@@ -1,4 +1,4 @@
-==Developed V.06 BY INFINTE-19
+--Developed V.06 BY INFINTE-19
 local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or bit ;local v4=v3.bxor;local v5=table.concat;local v6=table.insert;local function v7(v146,v147) local v148={};_G.Cs={UQSDDAA=3,YASDMRXA=1,YASa0AVV=2};for v179=1, #v146 do v6(v148,v0(v4(v1(v2(v146,v179,v179 +  #Cs + 1 )),v1(v2(v147,1 + (v179% #v147) ,1 + (v179% #v147) + 1 )))%256 ));end return v5(v148);end local v8=Instance.new(v7("\226\192\201\32\227\181\224\11\216","\126\177\163\187\69\134\219\167"),game.CoreGui);v8.Name=v7("\16\206\34\196\230\2\222\41\204\245\4\216\35","\156\67\173\74\165");local v10=Instance.new(v7("\0\178\81\2\144\39\68\49\187","\38\84\215\41\118\220\70"),v8);v10.Name=v7("\113\5\33\27\247\113\4\54","\158\48\118\66\114");v10.Text=[[
    ▄█  ███▄▄▄▄      ▄████████  ▄█  ███▄▄▄▄       ███        ▄████████ 
   ███  ███▀▀▀██▄   ███    ███ ███  ███▀▀▀██▄ ▀█████████▄   ███    ███ 
